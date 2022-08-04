@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168848715856",
+    "project_id": "genicanva",
+    "storage_bucket": "genicanva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168848715856:android:4a26352da24525edaee155",
+        "android_client_info": {
+          "package_name": "com.example.appgenicanva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168848715856-32nj4i8tkhpammq18agoiihmtsqc70hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPLkuXsWszOwsTXPrR3C2H0ZIqkTiSzSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168848715856-32nj4i8tkhpammq18agoiihmtsqc70hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

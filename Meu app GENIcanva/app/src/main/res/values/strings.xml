@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App Genicanva</string>
+
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="Email">E-mail</string>
+    <string name="Nome_Apelido">Nome ou Apelido</string>
+    <string name="senha">Senha</string>
+    <string name="ok">Entrar</string>
+    <string name="criar_conta">Criar Conta</string>
+
+
+    <string name="pagina_1">HOME</string>
+    <string name="pagina_2">CRIATIVIDADE</string>
+    <string name="pagina_3">DESIGN</string>
+    <string name="pagina_4">PERSUASÃO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

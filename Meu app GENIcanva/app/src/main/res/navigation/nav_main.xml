@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@+id/pagina_1">
+
+    <fragment
+        android:id="@+id/pagina_1"
+        android:name="com.example.appgenicanva.fragmentos.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/pagina_2"
+        android:name="com.example.appgenicanva.fragmentos.CriatividadeFragment"
+        android:label="fragment_criatividade"
+        tools:layout="@layout/fragment_criatividade" />
+    <fragment
+        android:id="@+id/pagina_3"
+        android:name="com.example.appgenicanva.fragmentos.DesignFragment"
+        android:label="fragment_design"
+        tools:layout="@layout/fragment_design" />
+    <fragment
+        android:id="@+id/pagina_4"
+        android:name="com.example.appgenicanva.fragmentos.PersuasaoFragment"
+        android:label="fragment_persuasao"
+        tools:layout="@layout/fragment_persuasao" />
+</navigation>
